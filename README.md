@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1510270880491-040eb7aadfec?auto=format&fit=crop&w=1200&q=80" alt="Colorful dice tumbling" width="600">
+</p>
+
 # js-lab-dice-1-ttpr · Dice Roller
 
 Welcome to your first JavaScript lab for the **Tech Talent Pipeline Residency**!  
